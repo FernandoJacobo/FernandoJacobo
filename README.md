@@ -1,6 +1,6 @@
 👨🏽‍💻 Web Developer
 
-Desarrollador web especializado en el desarrollo front-end y back-end para aplicaciones web de todo tipo. 
+Desarrollador web especializado en el desarrollo frontend y backend para aplicaciones web de todo tipo. 
 Cuento con más de tres años de experiencia desarrollando sistemas, páginas y aplicaciones web.
 
 A continuación un resumen de las principales tecnologías que uso:
