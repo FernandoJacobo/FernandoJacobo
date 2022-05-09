@@ -5,12 +5,12 @@ Cuento con más de tres años de experiencia desarrollando sistemas, páginas y 
 
 A continuación un resumen de las principales tecnologías que uso:
   
-Frontend
-  HTML 5
-  CCS 3
-  Bootstrap
-  Javascript
-  Vue Js
+Frontend: <br>
+&nbsp; &nbsp; 🔸HTML 5 <br>
+&nbsp; &nbsp; 🔸CCS 3 <br>
+&nbsp; &nbsp; 🔸Bootstrap <br>
+&nbsp; &nbsp; 🔸Javascript <br>
+&nbsp; &nbsp; 🔸Vue Js
   
-Backend
-  PHP
+Backend: <br>
+&nbsp; &nbsp; 🔸PHP
