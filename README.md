@@ -11,8 +11,8 @@ Frontend: <br>
 &nbsp; &nbsp; 🔸React <br>
   
 Backend: <br>
-&nbsp; &nbsp; 🔸PHP
-&nbsp; &nbsp; 🔸Laravel
+&nbsp; &nbsp; 🔸PHP <br>
+&nbsp; &nbsp; 🔸Laravel <br>
 
 Bases de Datos: <br>
 &nbsp; &nbsp; 🔸MySQL <br>
