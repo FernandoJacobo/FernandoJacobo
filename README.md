@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-Desarrollador web especializado en front-end y back-end, con más de cinco años de experiencia en la creación de aplicaciones y sistemas web de distintas complejidades. He diseñado y desarrollado soluciones eficientes y escalables, que van desde sitios corporativos hasta plataformas interactivas y aplicaciones de gestión. Mi enfoque se centra en entregar productos de alta calidad, optimizados para el rendimiento y una excelente experiencia de usuario.
+Desarrollador Full-Stack con más de cinco años de experiencia en el diseño y desarrollo de aplicaciones web robustas y escalables. Especializado tanto en front-end como en back-end, he creado soluciones que van desde sitios corporativos hasta plataformas interactivas y sistemas de gestión complejos. Mi enfoque combina una arquitectura eficiente, código limpio y rendimiento optimizado, siempre priorizando una excelente experiencia de usuario y la calidad del producto final. 
 
 
 # 💻 Tecnologías:
