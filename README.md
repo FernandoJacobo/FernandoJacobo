@@ -32,13 +32,6 @@ Actualmente en **Punto CHG** (Guadalajara), desarrollando sistemas para el secto
 
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://img.shields.io/github/followers/FernandoJacobo?style=for-the-badge&logo=github&label=Seguidores" />
-  <img src="https://img.shields.io/github/stars/FernandoJacobo?style=for-the-badge&logo=github&label=Stars" />
-</p>
-
 ### 🧑‍💻 Portafolio
 
 🔗 [jacobodev.com/portfolio](https://jacobodev.com/portfolio)
