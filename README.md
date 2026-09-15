@@ -35,8 +35,8 @@ Actualmente en **Punto CHG** (Guadalajara), desarrollando sistemas para el secto
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoJacobo&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoJacobo&hide_border=true" height="165" />
+  <img src="https://img.shields.io/github/followers/FernandoJacobo?style=for-the-badge&logo=github&label=Seguidores" />
+  <img src="https://img.shields.io/github/stars/FernandoJacobo?style=for-the-badge&logo=github&label=Stars" />
 </p>
 
 ### 🧑‍💻 Portafolio
