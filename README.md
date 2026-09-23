@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/fernando-alvarez-jacobo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:fernandojacobo54@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://jacobodev.com/portfolio"><img src="https://img.shields.io/badge/Portafolio-1F4E79?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
@@ -31,10 +30,6 @@ Actualmente en **Punto CHG** (Guadalajara), desarrollando sistemas para el secto
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### 🧑‍💻 Portafolio
-
-🔗 [jacobodev.com/portfolio](https://jacobodev.com/portfolio)
 
 ### 📫 Contacto
 
