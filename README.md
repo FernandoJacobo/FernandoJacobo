@@ -15,15 +15,24 @@
 
 ## 🧑‍💻 Sobre mí
 
-Desarrollador de software con base en **Guadalajara, Jalisco, México**, enfocado en **desarrollo web** y **administración de sistemas**. Actualmente trabajo como **Software Developer en Punto CHG**.
+**Software Developer** especializado en el desarrollo de **aplicaciones web modernas** y **sistemas empresariales**, con sólida experiencia en **administración de servidores Linux**.
 
-Me especializo en construir interfaces modernas y sistemas de negocio robustos, con experiencia particular en **facturación electrónica y dominios fiscales** (CFDI/SAT en México y SRI en Ecuador).
+Mi trabajo se centra en transformar procesos de negocio complejos en soluciones de software **escalables, mantenibles y bien diseñadas**. Cuento con experiencia especializada en **facturación electrónica y dominios fiscales** —CFDI/SAT en México y SRI en Ecuador—, un terreno donde la precisión, la trazabilidad y el cumplimiento normativo son críticos.
 
-- 🔭 Actualmente construyo **ERPs de facturación y contabilidad electrónica** (CFDI 4.0, complementos, multiempresa, RBAC y auditoría).
-- 🌐 Desarrollo **sitios y landing pages** para empresas y negocios como freelance.
-- 🤖 Integro **desarrollo asistido por IA** en mis flujos de trabajo (Claude Code, Codex, OpenCode).
-- 🎯 Busco oportunidades **Frontend o Fullstack**, remotas o presenciales en México.
-- 📫 Contacto: **jacobodev25@gmail.com**
+Trabajo bajo principios de **arquitectura limpia, SOLID y tipado estricto**, priorizando código legible, documentado y preparado para crecer.
+
+### ⚡ En qué me enfoco
+
+| | |
+|---|---|
+| 🧾 **Sistemas ERP** | Plataformas SaaS de facturación y contabilidad electrónica: CFDI 4.0, complementos fiscales, arquitectura multiempresa, control de acceso (RBAC) y auditoría. |
+| 🎨 **Frontend** | Interfaces responsivas, accesibles y orientadas a la experiencia de usuario con React, Next.js y TailwindCSS. |
+| ⚙️ **Fullstack** | APIs robustas con NestJS, PostgreSQL y Prisma, integradas de extremo a extremo. |
+| 🌐 **Desarrollo web** | Sitios corporativos y landing pages a medida, enfocados en rendimiento y conversión. |
+| 🤖 **Desarrollo con IA** | Flujos de trabajo asistidos por agentes de IA (Claude Code, Codex, OpenCode) para acelerar la entrega sin sacrificar calidad. |
+
+> 🎯 **Abierto a oportunidades** como desarrollador **Frontend** o **Fullstack**.
+> 📫 **Contacto:** [jacobodev25@gmail.com](mailto:jacobodev25@gmail.com)
 
 ---
 
@@ -92,7 +101,7 @@ Diseño y desarrollo de plataformas SaaS **multiempresa y multiusuario** para fa
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=jacobodev25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobodev25&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jacobodev25&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=jacobodev25&theme=tokyonight&hide_border=true" />
 
 </div>
 
