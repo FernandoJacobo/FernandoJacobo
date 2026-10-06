@@ -98,10 +98,10 @@ Diseño y desarrollo de plataformas SaaS **multiempresa y multiusuario** para fa
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jacobodev25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobodev25&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FernandoJacobo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoJacobo&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com/?user=jacobodev25&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=FernandoJacobo&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -113,6 +113,6 @@ Diseño y desarrollo de plataformas SaaS **multiempresa y multiusuario** para fa
 
 Escríbeme a **[jacobodev25@gmail.com](mailto:jacobodev25@gmail.com)** o visita **[jacobodev.pages.dev](https://jacobodev.pages.dev)**
 
-![Visitas](https://komarev.com/ghpvc/?username=jacobodev25&color=14b8a6&style=flat-square&label=Visitas+al+perfil)
+![Visitas](https://komarev.com/ghpvc/?username=FernandoJacobo&color=14b8a6&style=flat-square&label=Visitas+al+perfil)
 
 </div>
