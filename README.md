@@ -100,6 +100,4 @@ Diseño y desarrollo de plataformas SaaS **multiempresa y multiusuario** para fa
 
 Escríbeme a **[jacobodev25@gmail.com](mailto:jacobodev25@gmail.com)** o visita **[jacobodev.pages.dev](https://jacobodev.pages.dev)**
 
-![Visitas](https://komarev.com/ghpvc/?username=FernandoJacobo&color=14b8a6&style=flat-square&label=Visitas+al+perfil)
-
 </div>
